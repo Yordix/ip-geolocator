@@ -18,8 +18,6 @@
 			<id>norbert</id>
 			<name>Fiedler Norbert Béla</name>
 			<email>norbert2923@gmail.com</email>
-			<organization>Faculty of Informatics, University of Debrecen</organization>
-			<organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
 		</developer>
 	</developers>
 	<properties>
